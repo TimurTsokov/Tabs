@@ -1,0 +1,26 @@
+{
+  "name": "Tabs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.24.4",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-sass": "^4.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TimurTsokov/ILoveDesign.git"
+  },
+  "author": "TimurTsokov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TimurTsokov/ILoveDesign/issues"
+  },
+  "homepage": "https://github.com/TimurTsokov/ILoveDesign#readme"
+}
